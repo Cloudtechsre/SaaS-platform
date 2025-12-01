@@ -1,0 +1,11 @@
+High-level components:
+- Edge / Ingress -> Kubernetes services
+- Services:
+  - ingest-api
+  - orders-api
+  - platform-api
+  - orders-stream-processor
+- Postgres OLTP DB
+- Stream/queue + data lake + warehouse (later)
+- Prometheus + Grafana for observability
+- GitHub Actions for CI/CD

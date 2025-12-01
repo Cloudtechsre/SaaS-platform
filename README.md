@@ -1,2 +1,1 @@
-# SaaS-platform
--platform
+multi-tenant SaaS platform
